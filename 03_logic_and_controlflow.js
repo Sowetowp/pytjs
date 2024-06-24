@@ -4,3 +4,4 @@
 // tenary operator
 
 // falsy value
+// null
