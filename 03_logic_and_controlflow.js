@@ -11,7 +11,7 @@ undefined
 ""
 NaN
 
-const 
+let chioma
 if(true){
 
 }
