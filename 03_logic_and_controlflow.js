@@ -11,7 +11,7 @@ undefined
 ""
 NaN
 
-let chioma
+let chioma = 8
 if(true){
     chioma = "chioma"
 }else{
