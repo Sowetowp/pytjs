@@ -13,3 +13,5 @@ let ll = "8"
 document.write(kk + ll)
 malik -= ayodeji
 document.write(malik)
+malik++
+document.write(malik)
