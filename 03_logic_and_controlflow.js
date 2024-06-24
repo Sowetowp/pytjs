@@ -29,3 +29,5 @@ if(chioma <= 4){
 }else{
     document.write("chioma is definitely an adult")
 }
+
+if(chioma % 2 )
