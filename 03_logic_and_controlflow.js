@@ -1,2 +1,2 @@
 // if else statement
-// truth
+// truthy and falsy values
