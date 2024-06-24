@@ -8,7 +8,7 @@ document.write(malik ** ayodeji)
 document.write(malik % ayodeji)
 malik += ayodeji
 document.write(malik)
-var kk = "7"
+var kk = 7
 let ll = 7
 document.write(kk + ll)
 malik -= ayodeji
@@ -19,3 +19,4 @@ malik--
 document.write(malik)
 document.write(kk == ll)
 document.write(kk === ll)
+document.write(kk > ll)
