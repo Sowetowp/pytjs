@@ -17,11 +17,11 @@ if(chioma >= 18){
 }else{
     document.write("chioma is a child")
 }
-
+let child = 
 if(null){
 
 }else if(null){
 
 }else{
-    
+
 }
