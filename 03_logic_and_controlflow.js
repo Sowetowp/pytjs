@@ -14,5 +14,7 @@ NaN
 let chioma
 if(true){
     chioma = "chioma"
+}else{
+    chioma = "pamela"
 }
 console.log(chioma)
