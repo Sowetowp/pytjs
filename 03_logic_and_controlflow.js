@@ -11,7 +11,7 @@ undefined
 ""
 NaN
 
-var chioma
+let chioma
 if(true){
     chioma = "chioma"
 }
