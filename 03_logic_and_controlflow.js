@@ -19,7 +19,7 @@ if(chioma >= 18){
 }
 let child = 18
 let infant = 2
-
+let Adult = 
 if(null){
 
 }else if(null){
