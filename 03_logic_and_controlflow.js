@@ -12,6 +12,7 @@ undefined
 NaN
 
 let chioma = 88
+document.write()
 if(chioma >= 18){
     document.write("chioma is an adult")
 }else{
