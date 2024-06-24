@@ -12,4 +12,4 @@ var kk = "7"
 let ll = "8"
 document.write(kk + ll)
 malik -= ayodeji
-document.write(write)
+document.write(malik)
