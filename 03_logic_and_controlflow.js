@@ -12,7 +12,7 @@ undefined
 NaN
 
 let chioma = 88
-if(chioma - 88){
+if(chioma - 87){
     document.write("chioma is an adult")
 }else{
     document.write("chioma is a child")
