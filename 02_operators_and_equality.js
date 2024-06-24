@@ -19,6 +19,7 @@ malik--
 document.write(malik)
 document.write(kk == ll)
 document.write(<br/>)
+
 document.write(kk === ll)
 document.write(kk > ll)
 document.write(kk < ll)
