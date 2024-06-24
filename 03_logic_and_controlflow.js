@@ -18,6 +18,7 @@ if(chioma >= 18){
     document.write("chioma is a child")
 }
 let child = 18
+let infant = 
 if(null){
 
 }else if(null){
