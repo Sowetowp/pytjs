@@ -7,6 +7,6 @@ console.log(malik / ayodeji)
 console.log(malik ** ayodeji)
 console.log(malik % ayodeji)
 malik += ayodeji
-console.log(malik += ayodeji)
+console.log(malik)
 
 
