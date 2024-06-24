@@ -12,7 +12,7 @@ undefined
 NaN
 
 let chioma = 8
-if(true){
+if(chioma > 18){
     chioma = "chioma"
 }else{
     chioma = "pamela"
