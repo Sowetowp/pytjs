@@ -17,4 +17,4 @@ if(true){
 }else{
     chioma = "pamela"
 }
-console.log(chioma)
+document.write(chioma)
