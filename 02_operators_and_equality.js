@@ -25,3 +25,4 @@ document.write(kk >= ll)
 document.write(kk <= ll)
 document.write(kk !== ll)
 
+document.write()
