@@ -11,7 +11,8 @@ undefined
 ""
 NaN
 
-let chioma
+var chioma
 if(true){
-
+    chioma = "chioma"
 }
+document.write(chioma)
