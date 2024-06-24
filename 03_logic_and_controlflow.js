@@ -24,4 +24,6 @@ if(chioma <= 4){
     document.write("chioma is a child")
 }else if(chioma < 18){
     document.write("chioma is an teenager")
-}else if(chioma >= 18 && <= 19)
+}else if(chioma >= 18 && chioma <= 19){
+    document.write("chioma is an adult")
+}
