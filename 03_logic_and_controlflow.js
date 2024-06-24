@@ -30,4 +30,6 @@ if(chioma <= 4){
     document.write("chioma is definitely an adult")
 }
 
-if(chioma % 2 === )
+if(chioma % 2 === 0){
+    
+}
