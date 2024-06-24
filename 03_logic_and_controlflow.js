@@ -9,4 +9,6 @@ false
 undefined
 0
 ""
-NAN
+NaN
+
+
