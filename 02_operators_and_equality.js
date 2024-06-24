@@ -15,3 +15,5 @@ malik -= ayodeji
 document.write(malik)
 malik++
 document.write(malik)
+malik--
+document.write(malik)
