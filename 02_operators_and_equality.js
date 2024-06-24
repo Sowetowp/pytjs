@@ -10,4 +10,4 @@ malik += ayodeji
 document.write(malik)
 var kk = "7"
 let ll = "8"
-document.write(kk + ll) 1
+document.write(kk + ll)
