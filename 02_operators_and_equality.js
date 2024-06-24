@@ -17,4 +17,4 @@ malik++
 document.write(malik)
 malik--
 document.write(malik)
-document.write(malik == ayodeji)
+document.write(kk == ll)
