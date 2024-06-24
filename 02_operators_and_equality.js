@@ -29,4 +29,4 @@ document.write(true || false || false || false)
 document.write(true && false && false && false)
 document.write(true && false || false || true)
 
-dfo
+document.write(Math.round())
