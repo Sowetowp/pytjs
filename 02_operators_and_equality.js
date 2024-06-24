@@ -9,7 +9,7 @@ document.write(malik % ayodeji)
 malik += ayodeji
 document.write(malik)
 var kk = 7
-let ll = 7
+let ll = 70
 document.write(kk + ll)
 malik -= ayodeji
 document.write(malik)
