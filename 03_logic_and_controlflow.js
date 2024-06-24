@@ -11,4 +11,6 @@ undefined
 ""
 NaN
 
-if()
+if(){
+    
+}
