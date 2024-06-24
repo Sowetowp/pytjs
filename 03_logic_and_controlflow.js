@@ -19,7 +19,7 @@ if(chioma >= 18){
 }
 
 if(chio <= 4){
-    document.write("chioma is an adult")
+    document.write("chioma is an infant")
 }else if(null){
 
 }else{
