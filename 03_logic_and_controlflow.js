@@ -11,7 +11,7 @@ undefined
 ""
 NaN
 
-let chioma = 18
+let chioma = 20
 // if(chioma >= 18){
 //     document.write("chioma is an adult")
 // }else{
