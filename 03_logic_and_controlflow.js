@@ -3,4 +3,4 @@
 // switch and case
 // tenary operator
 
-// fa
+// falsy value
