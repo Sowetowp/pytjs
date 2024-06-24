@@ -12,8 +12,8 @@ undefined
 NaN
 
 let chioma = 8
-if(chioma > 18){
-    document.write()
+if(chioma >= 18){
+    document.write("")
 }else{
     chioma = "pamela"
 }
