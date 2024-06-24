@@ -8,6 +8,6 @@ document.write(malik ** ayodeji)
 document.write(malik % ayodeji)
 malik += ayodeji
 document.write(malik)
-var kk = "malik"
-let ll = "ayodeji"
+var kk = "7"
+let ll = "8"
 document.write(kk + ll)
