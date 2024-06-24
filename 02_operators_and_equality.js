@@ -31,3 +31,4 @@ document.write(true && false || false || true)
 
 document.write(Math.round(1.6))
 document.write(Math.floor(1.9))
+document.write(Math.ceil(1.01))
