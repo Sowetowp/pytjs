@@ -4,4 +4,8 @@
 // tenary operator
 
 // falsy value
-// null
+null
+false
+undefined
+0
+
