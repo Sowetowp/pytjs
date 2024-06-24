@@ -20,7 +20,7 @@ if(chioma >= 18){
 
 if(chioma <= 4){
     document.write("chioma is an infant")
-}else if(chi){
+}else if(chioma ){
 
 }else{
 
