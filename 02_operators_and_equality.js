@@ -25,4 +25,4 @@ document.write(kk >= ll)
 document.write(kk <= ll)
 document.write(kk !== ll)
 
-document.write(true || false || )
+document.write(true || false || false || false)
