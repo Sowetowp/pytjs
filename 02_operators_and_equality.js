@@ -7,3 +7,4 @@ console.log(malik / ayodeji)
 console.log(malik ** ayodeji)
 console.log(malik % ayodeji)
 
+
