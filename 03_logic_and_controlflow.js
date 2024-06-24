@@ -17,7 +17,7 @@ if(chioma >= 18){
 }else{
     document.write("chioma is a child")
 }
-let child = 
+let child = <= 18
 if(null){
 
 }else if(null){
