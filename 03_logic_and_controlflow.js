@@ -12,11 +12,11 @@ undefined
 NaN
 
 let chioma = 1
-if(chioma >= 18){
-    document.write("chioma is an adult")
-}else{
-    document.write("chioma is a child")
-}
+// if(chioma >= 18){
+//     document.write("chioma is an adult")
+// }else{
+//     document.write("chioma is a child")
+// }
 
 if(chioma <= 4){
     document.write("chioma is an infant")
