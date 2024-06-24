@@ -9,5 +9,5 @@ document.write(malik % ayodeji)
 malik += ayodeji
 document.write(malik)
 var kk = "malik"
-let ll = " ayodeji"
+let ll = "ayodeji"
 document.write(kk + ll)
