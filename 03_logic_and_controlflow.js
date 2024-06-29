@@ -46,7 +46,7 @@ switch (superHero) {
         console.log("I have my hammer")
         break;
         case "superman":
-            console.log(first)
+            console.log("This is Super Man flying")
 
     default:
         break;
