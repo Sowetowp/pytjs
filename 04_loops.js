@@ -20,5 +20,6 @@ do {
 
 let myObject = {
     favour: [1, 2, 3],
-    ope: ""
+    ope: "vibes",
+    kizzo: 
 }
