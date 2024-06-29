@@ -17,6 +17,7 @@ do {
     console.log(a)
     a++
 } while (a <= 10);
+
 for (const key in object) {
     if (Object.hasOwnProperty.call(object, key)) {
         const element = object[key];
