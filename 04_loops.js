@@ -4,4 +4,6 @@
 // for in loop
 // for of loop
 
-for (let i = 1)
+for (let i = 1; i <= 10; i++){
+    
+}
