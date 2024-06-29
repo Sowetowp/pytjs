@@ -49,5 +49,5 @@ switch (superHero) {
             console.log("This is Super Man flying")
 
     default:
-        break;
+        console.log(first)
 }
