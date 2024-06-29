@@ -29,4 +29,6 @@ let myObject = {
     afa: false
 }
 
-for
+for(let key in myObject){
+    
+}
