@@ -30,5 +30,5 @@ let myObject = {
 }
 
 for(let key in myObject){
-    console.log(myObject[key])
+    console.log(myObject[key] = "")
 }
