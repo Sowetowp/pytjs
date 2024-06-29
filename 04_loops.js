@@ -28,3 +28,4 @@ let myObject = {
     eri: {name: "Samuel"},
     afa: false
 }
+
