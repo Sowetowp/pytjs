@@ -40,7 +40,7 @@ if (sum % 2 === 0) {
     console.log("i am an odd number")
 }
 
-const superHero = "hulk"
+const superHero = "Hulk"
 switch (superHero) {
     case "thor":
         console.log("I have my hammer")
