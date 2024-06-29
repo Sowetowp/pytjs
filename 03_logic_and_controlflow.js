@@ -30,4 +30,5 @@ if(chioma <= 4){
     document.write("chioma is definitely an adult")
 }
 
-let 
+let variable1 = 88
+var variable2 = 99
