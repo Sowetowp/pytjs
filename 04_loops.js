@@ -8,10 +8,10 @@
 //     i % 2 === 0 ? console.log(`${i} is an even number`) : console.log(`${i} is an odd number`)
 // }
 let i = 0
-while(i <= 10){
-    console.log(i)
-    i++
-}
+// while(i <= 10){
+//     console.log(i)
+//     i++
+// }
 do {
     console.log(i)
     i++
