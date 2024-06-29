@@ -19,5 +19,5 @@ do {
 } while (a <= 10);
 
 let myObject = {
-    
+    favour: [1, 2, 3]
 }
