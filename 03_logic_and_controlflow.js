@@ -18,15 +18,15 @@ let chioma = 20
 //     document.write("chioma is a child")
 // }
 
-if(chioma <= 4){
+if (chioma <= 4) {
     document.write("chioma is an infant")
-}else if(chioma <= 12){
+} else if (chioma <= 12) {
     document.write("chioma is a child")
-}else if(chioma < 18){
+} else if (chioma < 18) {
     document.write("chioma is a teenager")
-}else if(chioma >= 18 && chioma <= 19){
+} else if (chioma >= 18 && chioma <= 19) {
     document.write("chioma is an adult that is also a teenager")
-}else{
+} else {
     document.write("chioma is definitely an adult")
 }
 
@@ -34,7 +34,7 @@ let variable1 = 88
 var variable2 = 99
 let sum = (Math.floor(Math.random() * (variable1 + 1))) + (Math.floor(Math.random() * (variable2 + 1)))
 console.log(sum)
-if (sum  % 2 === 0) {
+if (sum % 2 === 0) {
     console.log("i am an even number")
 } else {
     console.log("i am an odd number")
@@ -43,8 +43,9 @@ if (sum  % 2 === 0) {
 const superHero = "thor"
 switch (superHero) {
     case "thor":
-        console.log("first")
+        console.log("I have my hammer")
         break;
+        switch
 
     default:
         break;
