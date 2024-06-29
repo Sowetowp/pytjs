@@ -44,10 +44,10 @@ const superHero = "thor"
 switch (superHero) {
     case "thor":
         console.log("I have my hammer")
-        break;
-        case "superman":
-            console.log("This is Super Man flying")
-
+    break;
+    case "superman":
+        console.log("This is Super Man flying")
+    break;
     default:
-        console.log(first)
+        console.log("Please type in a correct Super Hero name")
 }
