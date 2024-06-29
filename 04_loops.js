@@ -29,4 +29,4 @@ let myObject = {
     afa: false
 }
 
-console.log(myObject[ope])
+console.log(myObject["ope"])
