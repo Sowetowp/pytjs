@@ -7,5 +7,5 @@
 for (let i = 0; i < 1000; i++){
     i % 2 === 0 ? console.log(`${i} is an even number`) : console.log(`${i} is an odd number`)
 }
-let 
+let i = 0
 while()
