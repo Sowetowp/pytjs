@@ -29,4 +29,6 @@ let myObject = {
     afa: false
 }
 
-console.log(myObject["ope"])
+for(let key in myObject){
+    console.log(key)
+}
