@@ -50,7 +50,6 @@ switch (superHero) {
         break;
     case "Iron Man":
         case "":
-    case "Iron Man":
             console.log("i am ")
     default:
         console.log("Please type in a correct Super Hero name")
