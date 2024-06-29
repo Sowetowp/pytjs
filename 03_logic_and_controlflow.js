@@ -43,7 +43,7 @@ if (sum  % 2 === 0) {
 const superHero = "thor"
 switch (superHero) {
     case "thor":
-        
+        console.log("first")
         break;
 
     default:
