@@ -41,8 +41,8 @@ if (sum  % 2 === 0) {
 }
 
 const superHero = "thor"
-switch (key) {
-    case value:
+switch (superHero) {
+    case "thor":
         
         break;
 
