@@ -64,3 +64,4 @@ switch (superHero) {
         console.log("Please type in a correct Super Hero name")
 }
 
+superHero === "Hulk" ? ""
