@@ -23,5 +23,6 @@ let myObject = {
     ope: "vibes",
     kizzo: null,
     wunmi: true,
-    henry: 
+    henry: 8,
+    chioma
 }
