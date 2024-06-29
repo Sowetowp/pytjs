@@ -57,8 +57,9 @@ switch (superHero) {
     case "flash":
         console.log("I am the fastest man on earth")
         break;
-        case "Hulk":
-            console.log(first)
+    case "Hulk":
+        console.log("I am Hulk")
+        break;
     default:
         console.log("Please type in a correct Super Hero name")
 }
