@@ -48,8 +48,10 @@ switch (superHero) {
     case "superman":
         console.log("This is Super Man flying")
         break;
+    case "Iron Man":
         case "":
-            console.log("first")
+    case "Iron Man":
+            console.log("i am ")
     default:
         console.log("Please type in a correct Super Hero name")
 }
