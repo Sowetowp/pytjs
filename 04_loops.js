@@ -36,6 +36,6 @@ console.log(myObject["ope"])
 
 let myArray = [1,2,3]
 
-for (const iterator of myArray) {
-    console.log(iterator)
+for (const i of myArray) {
+    console.log(i)
 }
