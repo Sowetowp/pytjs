@@ -40,3 +40,4 @@ if (sum  % 2 === 0) {
     console.log("i am an odd number")
 }
 
+const superHero = "thor"
