@@ -29,6 +29,4 @@ let myObject = {
     afa: false
 }
 
-for(let key in myObject){
-    console.log(key)
-}
+console.log(myObject[ope])
