@@ -32,8 +32,9 @@ if(chioma <= 4){
 
 let variable1 = 88
 var variable2 = 99
-
-if ((Math.floor(Math.random() * (variable1 + 1))) + (Math.floor(Math.random() * (variable2 + 1)))  % 2 === 0) {
+let sum = (Math.floor(Math.random() * (variable1 + 1))) + (Math.floor(Math.random() * (variable2 + 1)))
+if (sum  % 2 === 0) {
+    console.log(sum)
     console.log("i am an even number")
 } else {
     console.log("i am an even number")
