@@ -13,5 +13,6 @@ while(i <= 10){
     i++
 }
 do {
-    
+    console.log(i)
+    i++
 } while (i <= 10);
