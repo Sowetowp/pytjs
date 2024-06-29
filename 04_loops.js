@@ -3,3 +3,5 @@
 // do while loop
 // for in loop
 // for of loop
+
+for (let i = 1)
