@@ -22,5 +22,6 @@ let myObject = {
     favour: [1, 2, 3],
     ope: "vibes",
     kizzo: null,
-    wunmi: 
+    wunmi: true,
+    henry
 }
