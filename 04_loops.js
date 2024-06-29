@@ -15,5 +15,5 @@ while(i <= 10){
 let a = 0
 do {
     console.log(a)
-    i++
-} while (i <= 10);
+    a++
+} while (a <= 10);
