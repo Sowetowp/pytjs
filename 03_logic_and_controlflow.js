@@ -33,7 +33,7 @@ if(chioma <= 4){
 let variable1 = 88
 var variable2 = 99
 
-if ((Math.floor(Math.random() * (variable1 + 1))) + (Math.floor(Math.random() * (variable2 + 1))) ) {
+if ((Math.floor(Math.random() * (variable1 + 1))) + (Math.floor(Math.random() * (variable2 + 1)))  ) {
     
 } else {
     
