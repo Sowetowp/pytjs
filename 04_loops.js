@@ -35,6 +35,6 @@ for(let key in myObject){
 console.log(myObject["ope"])
 
 let myArray = [1,2,3]
-for (const iterator of myObject) {
+for (const iterator of myArray) {
     console.log(iterator)
 }
