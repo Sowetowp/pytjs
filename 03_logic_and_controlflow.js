@@ -45,7 +45,7 @@ switch (superHero) {
     case "thor":
         console.log("I have my hammer")
         break;
-        switch
+        case
 
     default:
         break;
