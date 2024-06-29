@@ -39,3 +39,4 @@ if (sum  % 2 === 0) {
 } else {
     console.log("i am an odd number")
 }
+
