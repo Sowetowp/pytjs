@@ -41,3 +41,11 @@ if (sum  % 2 === 0) {
 }
 
 const superHero = "thor"
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+}
