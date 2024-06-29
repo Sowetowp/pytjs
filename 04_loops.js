@@ -26,5 +26,5 @@ let myObject = {
     henry: 10,
     chioma: 1e+334,
     eri: {name: "Samuel"},
-    afa: 
+    afa: false
 }
