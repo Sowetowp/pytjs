@@ -24,5 +24,6 @@ let myObject = {
     kizzo: null,
     wunmi: true,
     henry: 10,
-    chioma: 1e+334
+    chioma: 1e+334,
+    eri: 
 }
