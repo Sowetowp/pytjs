@@ -33,3 +33,4 @@ for(let key in myObject){
     console.log(myObject[key] = "smart")
 }
 console.log(myObject["ope"])
+
