@@ -54,6 +54,7 @@ switch (superHero) {
     case "Batman":
         console.log("Vengance")
         break;
+        case ""
     default:
         console.log("Please type in a correct Super Hero name")
 }
