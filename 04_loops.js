@@ -18,4 +18,6 @@ do {
     a++
 } while (a <= 10);
 
-let myObject = 
+let myObject = {
+    
+}
