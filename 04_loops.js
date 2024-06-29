@@ -21,5 +21,6 @@ do {
 let myObject = {
     favour: [1, 2, 3],
     ope: "vibes",
-    kizzo: undefined
+    kizzo: null,
+    wyunmi
 }
