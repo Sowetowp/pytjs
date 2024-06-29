@@ -33,7 +33,7 @@ if(chioma <= 4){
 let variable1 = 88
 var variable2 = 99
 
-if (() + ()) {
+if ((Math.floor()) + ()) {
     
 } else {
     
