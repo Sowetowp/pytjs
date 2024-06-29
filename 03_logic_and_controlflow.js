@@ -51,7 +51,7 @@ switch (superHero) {
     case "Iron Man":
         console.log("i am Iron Man")
         break;
-    case "Ba":
+    case "Batman":
         console.log("first")
         break;
     default:
