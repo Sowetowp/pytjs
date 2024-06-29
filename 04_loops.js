@@ -37,5 +37,5 @@ console.log(myObject["ope"])
 let myArray = [11,2,3]
 
 for (const i of myArray) {
-    console.log(i)
+    console.log()
 }
