@@ -32,4 +32,4 @@ let myObject = {
 for(let key in myObject){
     console.log(myObject[key] = "olodo")
 }
-myObject["ope"]
+console.log(myObject["ope"])
