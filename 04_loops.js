@@ -4,9 +4,9 @@
 // for in loop
 // for of loop
 
-for (let i = 0; i < 1000; i++){
-    i % 2 === 0 ? console.log(`${i} is an even number`) : console.log(`${i} is an odd number`)
-}
+// for (let i = 0; i < 1000; i++){
+//     i % 2 === 0 ? console.log(`${i} is an even number`) : console.log(`${i} is an odd number`)
+// }
 let i = 0
 while(1 <= 10){
     console.log(i)
