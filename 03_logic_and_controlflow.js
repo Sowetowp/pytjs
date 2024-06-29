@@ -63,3 +63,4 @@ switch (superHero) {
     default:
         console.log("Please type in a correct Super Hero name")
 }
+
