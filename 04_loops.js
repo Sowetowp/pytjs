@@ -45,3 +45,5 @@ const arsenal = ["saka", "leno", "xhaka", "gabriel"]
 const chelsea = ["palmer", "kante", "werner", "james"]
 const realMadrid = ["vini", "belingham", "bale", "modric"]
 
+const playerName = ""
+
