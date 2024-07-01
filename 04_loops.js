@@ -51,7 +51,7 @@ switch (playerName) {
     case "arsenal":
         
         break;
-
+case ""
     default:
         break;
 }
