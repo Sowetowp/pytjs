@@ -21,7 +21,7 @@ const myArray = [
 const timeScheduling = () => {
     const output = []
     for (let i = 0; i <= myArray.length; i++) {
-        if (myArray[i].start !== myArray.start && myArray[i].end !== myArray.end && myArray[i].sta) {
+        if (myArray[i].start !== myArray[i + 1].start) {
 
         }
     }
