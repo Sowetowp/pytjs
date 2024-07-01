@@ -48,35 +48,35 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 const playerName = "belinghallllm"
 let team
 
-for (const iterator of arsenal) {
-    if (iterator === playerName){
-        team = "arsenal"
-    }
-}
-for (const iterator of chelsea) {
-    if (iterator === playerName){
-        team = "chelsea"
-    }
-}
-for (const iterator of realMadrid) {
-    if (iterator === playerName){
-        team = "realMadrid"
-    }
-}
+// for (const iterator of arsenal) {
+//     if (iterator === playerName){
+//         team = "arsenal"
+//     }
+// }
+// for (const iterator of chelsea) {
+//     if (iterator === playerName){
+//         team = "chelsea"
+//     }
+// }
+// for (const iterator of realMadrid) {
+//     if (iterator === playerName){
+//         team = "realMadrid"
+//     }
+// }
 
-switch (team) {
-    case "arsenal":
-        console.log(`${playerName} is an arsenal player`)
-        break;
-    case "chelsea":
-        console.log(`${playerName} is a chelsea player`)
-        break;
-    case "realMadrid":
-        console.log(`${playerName} is a realMadrid player`)
-        break;
-    default:
-        console.log("not a player");
-}
+// switch (team) {
+//     case "arsenal":
+//         console.log(`${playerName} is an arsenal player`)
+//         break;
+//     case "chelsea":
+//         console.log(`${playerName} is a chelsea player`)
+//         break;
+//     case "realMadrid":
+//         console.log(`${playerName} is a realMadrid player`)
+//         break;
+//     default:
+//         console.log("not a player");
+// }
 
 for(let i = 0; i >= 3; i++){
     if (arsenal[i] === playerName){
