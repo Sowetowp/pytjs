@@ -21,9 +21,8 @@ const myArray = [
 const timeScheduling = ()=>{
     const output = []
     for (const iterator of myArray) {
-        
-    }
-    if(){
-
+        if(){
+    
+        }
     }
 }
