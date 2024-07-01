@@ -1,3 +1,4 @@
 function myFunction() {
-    console.log(first)
+    console.log("i am a function")
 }
+myFunction()
