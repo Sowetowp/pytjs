@@ -79,7 +79,7 @@ switch (team) {
 }
 
 for(let i = 0; i >= 3; i++){
-    if (i === playerName){
+    if ( === playerName){
         team = "arsenal"
     }
 }
