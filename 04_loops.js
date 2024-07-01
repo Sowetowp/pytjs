@@ -89,7 +89,7 @@ for(let i = 0; i >= 3; i++){
 }
 
 switch (team) {
-    case true:
+    case team:
         console.log(`${playerName} is a/an ${team} player`)
         break;
     default:
