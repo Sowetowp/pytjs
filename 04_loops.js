@@ -83,6 +83,8 @@ for(let i = 0; i >= 3; i++){
         team = "arsenal"
     }else if(chelsea[i] === playerName){
         team = "chelsea"
+    }else if(realMadrid[i] === playerName){
+        team = ""
     }
 }
 
