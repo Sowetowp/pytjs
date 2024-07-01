@@ -49,7 +49,7 @@ const playerName = ""
 
 switch (playerName) {
     case "arsenal":
-        console.log(`${}`)
+        console.log(`${playerName} is an arsenal player`)
         break;
     case "chelsea":
         break;
