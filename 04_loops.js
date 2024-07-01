@@ -4,11 +4,11 @@
 // for in loop
 // for of loop
 
-for (let i = 0; i < 1000; i++){
+for (let i = 0; i < 1000; i++) {
     i % 2 === 0 ? console.log(`${i} is an even number`) : console.log(`${i} is an odd number`)
 }
 let i = 0
-while(i <= 10){
+while (i <= 10) {
     console.log(i)
     i++
 }
@@ -25,16 +25,16 @@ let myObject = {
     wunmi: true,
     henry: 10,
     chioma: 1e+34,
-    eri: {name: "Samuel"},
+    eri: { name: "Samuel" },
     afa: false
 }
 
-for(let key in myObject){
+for (let key in myObject) {
     console.log(myObject[key] = "smart")
 }
 console.log(myObject["ope"])
 
-let myArray = [1,2,3]
+let myArray = [1, 2, 3]
 
 for (const iterator of myArray) {
     console.log(iterator)
@@ -49,11 +49,12 @@ const playerName = ""
 
 switch (playerName) {
     case "arsenal":
-        
+
         break;
-case "chelsea":
-break;
-case ""
+    case "chelsea":
+        break;
+    case "realMadrid":
+        break;
     default:
         break;
 }
