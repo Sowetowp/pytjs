@@ -52,6 +52,7 @@ switch (playerName) {
         console.log(`${playerName} is an arsenal player`)
         break;
     case "chelsea":
+        console.log(`${playerName} is an arsenal player`)
         break;
     case "realMadrid":
         break;
