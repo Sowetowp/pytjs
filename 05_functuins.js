@@ -32,3 +32,6 @@ const timeScheduling = () => {
 console.log(timeScheduling())
 
 
+const arrowFunction = ()=>{
+    
+}
