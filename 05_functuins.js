@@ -5,6 +5,6 @@ function myFunction(chioma1, chioma2, chioma3) {
 myFunction(1, 2, 3)
 
 function areaOfACircle (r){
-    console.log(r^^2)
+    console.log(r**2)
 }
 areaOfACircle(2)
