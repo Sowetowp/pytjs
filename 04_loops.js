@@ -78,7 +78,10 @@ switch (team) {
         console.log("not a player");
 }
 
-for(let i = 0; i >= 11; i++)
+for(let i = 0; i >= 4; i++){
+    
+}
+
 switch (team) {
     case "arsenal":
         console.log(`${playerName} is an arsenal player`)
