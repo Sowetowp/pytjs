@@ -90,7 +90,7 @@ for(let i = 0; i >= 3; i++){
 
 switch (team) {
     case true:
-        console.log(`${playerName} is an arsenal player`)
+        console.log(`${playerName} is a/an ${team} player`)
         break;
     default:
         console.log("not a player");
