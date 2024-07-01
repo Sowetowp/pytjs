@@ -48,7 +48,7 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 const playerName = "saka"
 let team
 
-for (const iterator of srse) {
+for (const iterator of arsenal) {
     
 }
 
