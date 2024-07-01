@@ -9,7 +9,7 @@ function areaOfACircle (r){
 }
 areaOfACircle(2)
 
-consty myArray = []
+const myArray = []
 const timeScheduling = ()=>{
     
 }
