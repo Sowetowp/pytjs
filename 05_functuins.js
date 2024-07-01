@@ -8,3 +8,4 @@ function areaOfACircle (r){
     console.log(Math.random() * 3.142 * r**2)
 }
 areaOfACircle(2)
+
