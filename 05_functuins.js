@@ -16,13 +16,9 @@ const myArray = [
     {start: 0, end: 6},
     {start: 5, end: 7},
     {start: 8, end: 9},
-    {start: 5, end: 9},
-    {start: 1, end: 2},
-    {start: 1, end: 2},
-    {start: 1, end: 2},
-    {start: 1, end: 2},
-    {start: 1, end: 2}
+    {start: 5, end: 9}
 ]
+
 const timeScheduling = ()=>{
     
 }
