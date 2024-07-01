@@ -47,3 +47,11 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 
 const playerName = ""
 
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+}
