@@ -20,5 +20,7 @@ const myArray = [
 ]
 
 const timeScheduling = ()=>{
-    
+    if(){
+        
+    }
 }
