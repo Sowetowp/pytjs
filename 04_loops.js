@@ -49,7 +49,7 @@ const playerName = ""
 
 switch (playerName) {
     case "arsenal":
-
+        console.log(`first`)
         break;
     case "chelsea":
         break;
