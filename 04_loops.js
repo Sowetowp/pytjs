@@ -46,7 +46,7 @@ const chelsea = ["palmer", "kante", "werner", "james"]
 const realMadrid = ["vini", "belingham", "bale", "modric"]
 
 const playerName = "saka"
-const team = ""
+let team
 
 
 
