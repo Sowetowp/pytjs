@@ -48,21 +48,21 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 const playerName = "belingham"
 let team
 
-// for (const iterator of arsenal) {
-//     if (iterator === playerName){
-//         team = "arsenal"
-//     }
-// }
-// for (const iterator of chelsea) {
-//     if (iterator === playerName){
-//         team = "chelsea"
-//     }
-// }
-// for (const iterator of realMadrid) {
-//     if (iterator === playerName){
-//         team = "realMadrid"
-//     }
-// }
+for (const iterator of arsenal) {
+    if (iterator === playerName){
+        team = "arsenal"
+    }
+}
+for (const iterator of chelsea) {
+    if (iterator === playerName){
+        team = "chelsea"
+    }
+}
+for (const iterator of realMadrid) {
+    if (iterator === playerName){
+        team = "realMadrid"
+    }
+}
 
 switch (team) {
     case "arsenal":
