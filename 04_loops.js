@@ -54,6 +54,7 @@ for (const iterator of arsenal) {
     }
 }
 
+
 switch (team) {
     case "arsenal":
         console.log(`${playerName} is an arsenal player`)
