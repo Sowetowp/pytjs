@@ -20,7 +20,10 @@ const myArray = [
 ]
 
 const timeScheduling = ()=>{
-    if(){
+    for (const iterator of object) {
         
+    }
+    if(){
+
     }
 }
