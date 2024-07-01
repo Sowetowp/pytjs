@@ -78,8 +78,8 @@ switch (team) {
         console.log("not a player");
 }
 
-for(let i = 0; i >= 4; i++){
-    
+for(let i = 0; i >= 3; i++){
+
 }
 
 switch (team) {
