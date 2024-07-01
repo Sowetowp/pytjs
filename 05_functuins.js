@@ -1,4 +1,4 @@
-function myFunction(param1, param2, param3) {
-    
+function myFunction(chioma1, chioma2, chioma3) {
+
 }
 myFunction(1, 2, 3)
