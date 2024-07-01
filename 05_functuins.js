@@ -1,6 +1,3 @@
-let sum
-function eri(a, b) {
-    sum = a + b
+function name(params) {
+    
 }
-eri(1, 2)
-console.log(sum)
