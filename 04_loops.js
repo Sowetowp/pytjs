@@ -82,12 +82,6 @@ switch (team) {
     case "arsenal":
         console.log(`${playerName} is an arsenal player`)
         break;
-    case "chelsea":
-        console.log(`${playerName} is a chelsea player`)
-        break;
-    case "realMadrid":
-        console.log(`${playerName} is a realMadrid player`)
-        break;
     default:
         console.log("not a player");
 }
