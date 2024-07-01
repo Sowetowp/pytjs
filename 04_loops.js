@@ -60,7 +60,7 @@ for (const iterator of chelsea) {
 }
 for (const iterator of realMadrid) {
     if (iterator === playerName){
-        team = "arsenal"
+        team = "realMadrid"
     }
 }
 
