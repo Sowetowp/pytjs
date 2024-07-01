@@ -29,3 +29,4 @@ const timeScheduling = () => {
     }
     return output
 }
+timeScheduling()
