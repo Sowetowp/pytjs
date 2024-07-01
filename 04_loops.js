@@ -53,7 +53,16 @@ for (const iterator of arsenal) {
         team = "arsenal"
     }
 }
-
+for (const iterator of arsenal) {
+    if (iterator === playerName){
+        team = "arsenal"
+    }
+}
+for (const iterator of arsenal) {
+    if (iterator === playerName){
+        team = "arsenal"
+    }
+}
 
 switch (team) {
     case "arsenal":
