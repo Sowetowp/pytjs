@@ -1,6 +1,6 @@
 let sum
-function add(a, b) {
+function eri(a, b) {
     sum = a + b
 }
-add(1, 2)
+eri(1, 2)
 console.log(sum)
