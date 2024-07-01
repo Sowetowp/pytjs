@@ -46,9 +46,9 @@ const chelsea = ["palmer", "kante", "werner", "james"]
 const realMadrid = ["vini", "belingham", "bale", "modric"]
 
 const playerName = ""
+const team = ""
 
-
-switch (playerName) {
+switch (team) {
     case "arsenal":
         console.log(`${playerName} is an arsenal player`)
         break;
