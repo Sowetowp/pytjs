@@ -27,4 +27,5 @@ const timeScheduling = () => {
             output.push(myArray[i])
         }
     }
+    return output
 }
