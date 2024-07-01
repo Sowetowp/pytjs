@@ -29,4 +29,4 @@ const timeScheduling = () => {
     }
     return output
 }
-timeScheduling()
+console.log(timeScheduling())
