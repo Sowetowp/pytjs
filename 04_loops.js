@@ -47,6 +47,7 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 
 const playerName = ""
 
+
 switch (playerName) {
     case "arsenal":
         console.log(`${playerName} is an arsenal player`)
