@@ -47,8 +47,8 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 
 const playerName = ""
 
-switch (key) {
-    case value:
+switch (playerName) {
+    case "arsenal":
         
         break;
 
