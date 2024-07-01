@@ -32,4 +32,4 @@ const timeScheduling = () => {
 console.log(timeScheduling())
 
 
-const mmm = param =>{return "favour"}
+const mmm = param =>"favour"
