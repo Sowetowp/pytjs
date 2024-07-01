@@ -77,3 +77,4 @@ switch (team) {
     default:
         console.log("not a player");
 }
+
