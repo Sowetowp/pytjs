@@ -51,7 +51,9 @@ switch (playerName) {
     case "arsenal":
         
         break;
-case "chelsea"
+case "chelsea":
+break;
+case ""
     default:
         break;
 }
