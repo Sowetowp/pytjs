@@ -19,7 +19,7 @@ const myArray = [
     { start: 5, end: 9 }
 ]
 const timeScheduling = () => {
-    const output = []
+    let output = []
     for (let i = 0; i < myArray.length; i++) {
         if(i === 0){
             output += myArray[i]
