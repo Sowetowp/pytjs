@@ -18,8 +18,8 @@ const myArray = [
     {start: 8, end: 9},
     {start: 5, end: 9}
 ]
-const output = []
 const timeScheduling = ()=>{
+    const output = []
     for (const iterator of myArray) {
         
     }
