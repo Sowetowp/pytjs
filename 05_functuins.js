@@ -19,12 +19,12 @@ const myArray = [
     { start: 5, end: 9 }
 ]
 const timeScheduling = () => {
-    let output = []
+    const output = []
     for (let i = 0; i < myArray.length; i++) {
         if(i === 0){
-            output += myArray[i]
+            output.push(myArray[i])
         }else if (myArray[i].start < output[output.length - 1].start && myArray[i].end <= output[output.length - 1].start || myArray[i].start >= output[output.length - 1].end) {
-            output += myArray[i]
+            output.push(myArray[i])
         }
     }
     return output
