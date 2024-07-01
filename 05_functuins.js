@@ -9,6 +9,6 @@ function areaOfACircle (r){
 }
 areaOfACircle(2)
 
-const MySecondFunction = ()=>{
+const mySecondFunction = ()=>{
     
 }
