@@ -10,7 +10,8 @@ function areaOfACircle (r){
 areaOfACircle(2)
 
 const myArray = [
-    {start: }
+    {start: 1, end: 2},
+
 ]
 const timeScheduling = ()=>{
     
