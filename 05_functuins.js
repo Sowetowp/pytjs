@@ -22,11 +22,11 @@ const timeScheduling = () => {
     const output = []
     for (let i = 0; i <= myArray.length; i++) {
         console.log(myArray[i])
-        if(i !== 0){
-            output.push(myArray[i])
-        }else if (myArray[i].start < myArray[i - 1].start && myArray[i].end < myArray[i - 1].start || myArray[i].start > myArray[i - 1].end) {
-            output.push(myArray[i])
-        }
+        // if(i !== 0){
+        //     output.push(myArray[i])
+        // }else if (myArray[i].start < myArray[i - 1].start && myArray[i].end < myArray[i - 1].start || myArray[i].start > myArray[i - 1].end) {
+        //     output.push(myArray[i])
+        // }
     }
     return output
 }
