@@ -1,3 +1,4 @@
+let sum
 function add(a, b) {
-    a
+    a + b
 }
