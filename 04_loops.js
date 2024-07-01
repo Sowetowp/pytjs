@@ -49,7 +49,9 @@ const playerName = "saka"
 let team
 
 for (const iterator of arsenal) {
-    
+    if (iterator === playerName){
+        
+    }
 }
 
 switch (team) {
