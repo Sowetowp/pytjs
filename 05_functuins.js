@@ -1,4 +1,4 @@
-function myFunction(param1, param2) {
-
+function myFunction(param1, param2, param3) {
+    
 }
 myFunction()
