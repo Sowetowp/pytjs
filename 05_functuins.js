@@ -7,3 +7,4 @@ myFunction(1, 2, 3)
 function areaOfACircle (r){
     console.log(3.142 * r**2)
 }
+areaOfACircle(2)
