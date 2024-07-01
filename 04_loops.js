@@ -75,5 +75,5 @@ switch (team) {
         console.log(`${playerName} is a realMadrid player`)
         break;
     default:
-        break;
+        console.log("first");
 }
