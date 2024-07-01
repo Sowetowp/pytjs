@@ -43,3 +43,4 @@ for (const iterator of myArray) {
 
 const arsenal = ["saka", "leno", "xhaka", "gabriel"]
 const chelsea = ["palmer", "kante", "werner", "james"]
+const 
