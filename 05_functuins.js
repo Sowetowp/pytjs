@@ -1,3 +1,3 @@
-function add(params) {
-    
+function add(a, b) {
+    a
 }
