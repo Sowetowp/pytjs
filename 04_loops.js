@@ -53,12 +53,12 @@ for (const iterator of arsenal) {
         team = "arsenal"
     }
 }
-for (const iterator of arsenal) {
+for (const iterator of chelsea) {
     if (iterator === playerName){
         team = "arsenal"
     }
 }
-for (const iterator of arsenal) {
+for (const iterator of realMadrid) {
     if (iterator === playerName){
         team = "arsenal"
     }
