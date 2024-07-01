@@ -50,7 +50,7 @@ let team
 
 for (const iterator of arsenal) {
     if (iterator === playerName){
-        
+        team = 
     }
 }
 
