@@ -48,7 +48,7 @@ const realMadrid = ["vini", "belingham", "bale", "modric"]
 const playerName = "saka"
 let team
 
-for()
+for(let i = )
 
 switch (team) {
     case "arsenal":
