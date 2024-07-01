@@ -2,5 +2,5 @@ let sum
 function add(a, b) {
     sum = a + b
 }
-add()
+add(1, 2)
 console.log(sum)
