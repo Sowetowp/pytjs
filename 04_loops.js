@@ -39,3 +39,5 @@ let myArray = [1,2,3]
 for (const iterator of myArray) {
     console.log(iterator)
 }
+
+
