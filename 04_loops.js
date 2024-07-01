@@ -41,4 +41,4 @@ for (const iterator of myArray) {
 }
 
 
-const arsenal = ["saka", "mane"]
+const arsenal = ["saka", "leno", ""]
