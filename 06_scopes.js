@@ -1,4 +1,3 @@
-kizzo = 99
 console.log(kizzo)
 malik()
 let chioma
@@ -10,4 +9,4 @@ function malik(){
     let wunmi= 99
     console.log(wunmi)
 }
-var kizzo
+var kizzo = 7
