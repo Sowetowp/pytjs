@@ -1,4 +1,4 @@
-let malik = "Malik"
+let malik = "malik"
 let chioma = 88
 console.log(malik.length)
 console.log(malik.toUpperCase())
