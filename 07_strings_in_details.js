@@ -1,2 +1,2 @@
 let malik = "malik"
-console.log(malik.length)
+console.log(malik.toUpperCase())
