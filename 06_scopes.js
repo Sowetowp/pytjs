@@ -10,4 +10,4 @@ function malik(){
     let wunmi= 99
     console.log(wunmi)
 }
-var kizzo
+let kizzo
