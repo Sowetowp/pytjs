@@ -46,4 +46,6 @@ x += 1
 // x ??= y
 // x = x ?? (x= y)
 
-con
+const myfunc = (f,j)=>{
+    
+}
