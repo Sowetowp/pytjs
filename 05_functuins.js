@@ -39,6 +39,6 @@ x += 1
 // x &&= y
 // x = x && (x = y)
 
-let y = 8
+let y 
 y ??= 5
 console.log(y)
