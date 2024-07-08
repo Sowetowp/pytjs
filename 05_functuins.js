@@ -36,8 +36,8 @@ const mmm = param => "favour"
 let x = 0
 x += 1
 
-x &&= y
-x = x && (x = y)
+// x &&= y
+// x = x && (x = y)
 
 let y = 8
 y ??= 5
