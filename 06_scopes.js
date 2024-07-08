@@ -1,4 +1,5 @@
-
+kizzo = 99
+console.log(kizzo)
 malik()
 let chioma
 console.log(chioma)
