@@ -41,3 +41,4 @@ x = x && (x = y)
 
 let y = 8
 y ??= 5
+console.log(y)
