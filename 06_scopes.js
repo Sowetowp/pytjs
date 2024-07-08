@@ -4,7 +4,7 @@ console.log(chioma)
 for(let i = 0; i <= 6; i++){
     
 }
-function malik (){
+malik = ()=>{
     let wunmi= 99
     console.log(wunmi)
 }
