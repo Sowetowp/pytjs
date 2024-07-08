@@ -39,10 +39,10 @@ x += 1
 // x &&= y
 // x = x && (x = y)
 
-let y = 8
-y ??= 5
-console.log(y)
+// let y = 8
+// y ??= 5
+// console.log(y)
 
-x ??= y
-x = x ?? (x= y)
+// x ??= y
+// x = x ?? (x= y)
 
