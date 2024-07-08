@@ -7,3 +7,4 @@ console.log(chioma.toString())
 console.log(malik.slice(3))
 
 console.log(malik[0].toUpperCase() + malik.slice(1))
+console.log(malik.splice())
