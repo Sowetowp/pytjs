@@ -42,3 +42,5 @@ x += 1
 let y = 8
 y ??= 5
 console.log(y)
+
+x ??= y
