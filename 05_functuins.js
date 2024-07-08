@@ -36,3 +36,4 @@ const mmm = param => "favour"
 let x = 0
 x += 1
 
+x &&= y
