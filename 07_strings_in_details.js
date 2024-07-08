@@ -1,3 +1,3 @@
 let malik = "Malik"
 console.log(malik.toUpperCase())
-console.log(first)
+console.log(malik.toLowerCase())
