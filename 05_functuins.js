@@ -43,5 +43,5 @@ let y = 8
 y ??= 5
 console.log(y)
 
-x ??= 
+x ??= y
 x = x ?? (x= y)
