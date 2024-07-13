@@ -17,5 +17,5 @@ console.log(myArray)
 myArray.splice(1, 2, "elvis", "david")
 console.log(myArray.toString())
 myArray.forEach((val, index, arr)=>{
-
+    console.log(val)
 })
