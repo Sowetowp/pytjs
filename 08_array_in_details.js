@@ -47,3 +47,4 @@ const reduced = kk.reduce((acc, curr) => {
     }
     return acc;
 }, {});
+console.log(reduced)
