@@ -32,4 +32,6 @@ const mapped = myArray.map((val, index, arr)=>{
 })
 console.log(mapped)
 
-const filt = myArray.filter((val)=>{})
+const filt = myArray.filter((val)=>{
+    
+})
