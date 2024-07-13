@@ -42,4 +42,4 @@ const reduced = kk.reduce((acc, val, ind, arr)=>{
     console.log(val)
     return acc + val 
 })
-console.log(reduced)
+// console.log(reduced)
