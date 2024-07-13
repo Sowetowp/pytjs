@@ -26,3 +26,6 @@ const mm = myArray.forEach((val, index, arr)=>{
 })
 console.log(mm)
 
+const mapped = myArray.map(()=>{
+    
+})
