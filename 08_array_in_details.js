@@ -36,5 +36,5 @@ const filt = myArray.filter((val)=>{
     return val === "chioma"
 })
 console.log(filt)
-
+let kk = [1, 2, 3]
 const reduced = 
