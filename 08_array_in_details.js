@@ -27,6 +27,6 @@ const mm = myArray.forEach((val, index, arr)=>{
 console.log(mm)
 
 const mapped = myArray.map((val, index, arr)=>{
-    console.log(val)
+    console.log(val, index, arr)
 })
 console.log(mapped)
