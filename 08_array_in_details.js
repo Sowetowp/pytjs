@@ -36,3 +36,4 @@ const filt = myArray.filter((val)=>{
     return val === "chioma"
 })
 console.log(filt)
+
