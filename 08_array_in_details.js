@@ -31,3 +31,5 @@ const mapped = myArray.map((val, index, arr)=>{
     return val + " " + "omo ologo"
 })
 console.log(mapped)
+
+const 
