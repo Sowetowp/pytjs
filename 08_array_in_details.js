@@ -50,5 +50,5 @@ const reduced = kk.reduce((acc, curr) => {
 console.log(reduced)
 
 const finders = kk.find((val)=>{
-    return 
+    return val.a = 
 })
