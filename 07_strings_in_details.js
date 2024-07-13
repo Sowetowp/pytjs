@@ -13,3 +13,4 @@ console.log(malik.trim())
  const b = "malik"
  console.log(a.trim() === b)
  console.log(b.search(""))
+ 
