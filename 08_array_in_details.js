@@ -37,3 +37,4 @@ const filt = myArray.filter((val)=>{
 })
 console.log(filt)
 
+const reduced = 
