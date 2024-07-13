@@ -29,3 +29,4 @@ console.log(mm)
 const mapped = myArray.map((val, index, arr)=>{
     console.log(val)
 })
+console.log(mapped)
