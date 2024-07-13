@@ -22,9 +22,9 @@ const myarr2 = [[1, 2, 3], ["malik", "david"]]
 console.log(myarr2.flat())
 const ph = []
 const mm = myArray.forEach((val, index, arr)=>{
-   return ph.push(val + "olodo")
+    ph.push(val + "olodo")
 })
-console.log(mm)
+console.log(ph)
 
 const mapped = myArray.map((val, index, arr)=>{
     console.log(val, index, arr)
