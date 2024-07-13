@@ -18,7 +18,7 @@ myArray.splice(1, 2, "elvis", "david")
 console.log(myArray.toString())
 console.log(myArray[myArray.length - 1])
 console.log(myArray.at(-1))
-const myarr2 = [[1, 2, 3]]
+const myarr2 = [[1, 2, 3], myArray]
 myArray.forEach((val, index, arr)=>{
     console.log(val, index)
 })
