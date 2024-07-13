@@ -12,3 +12,4 @@ console.log(malik.trim())
  const a = "     malik     "
  const b = "malik"
  console.log(a.trim() === b)
+ 
