@@ -1,1 +1,1 @@
-const 
+const myArray = ["ope", "eri", "wunmi", ]
