@@ -48,3 +48,4 @@ const reduced = kk.reduce((acc, curr) => {
     return acc;
 }, {a: [99]});
 console.log(reduced)
+
