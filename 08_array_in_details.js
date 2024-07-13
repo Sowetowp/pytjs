@@ -46,5 +46,5 @@ const reduced = kk.reduce((acc, curr) => {
         }
     }
     return acc;
-}, {a: });
+}, {a: 99});
 console.log(reduced)
