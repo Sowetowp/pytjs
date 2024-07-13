@@ -49,3 +49,4 @@ const reduced = kk.reduce((acc, curr) => {
 }, {a: [99]});
 console.log(reduced)
 
+const finders = 
