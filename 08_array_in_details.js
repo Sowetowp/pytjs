@@ -41,5 +41,5 @@ const reduced = kk.reduce((acc, val, ind, arr)=>{
     console.log(acc)
     console.log(val)
     return acc + val 
-}, 99)
+})
 console.log(reduced)
