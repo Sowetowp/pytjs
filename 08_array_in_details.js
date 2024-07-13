@@ -32,4 +32,4 @@ const mapped = myArray.map((val, index, arr)=>{
 })
 console.log(mapped)
 
-const 
+const filt = myArray.
