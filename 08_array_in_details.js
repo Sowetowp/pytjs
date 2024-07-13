@@ -4,3 +4,4 @@ console.log(myArray.length)
 console.log(myArray.reverse())
 myArray.push("afa")
 console.log(myArray)
+m
