@@ -40,4 +40,4 @@ let kk = [1, 2, 3]
 const reduced = kk.reduce((acc, val, ind, arr)=>{
     acc[val] = val
 }, {malik: "malik"})
-// console.log(reduced)
+console.log(reduced)
