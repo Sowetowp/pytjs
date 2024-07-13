@@ -20,6 +20,7 @@ console.log(myArray[myArray.length - 1])
 console.log(myArray.at(-1))
 const myarr2 = [[1, 2, 3], ["malik", "david"]]
 console.log(myarr2.flat())
+
 myArray.forEach((val, index, arr)=>{
     console.log(val, index)
 })
