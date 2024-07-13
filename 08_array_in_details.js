@@ -25,3 +25,4 @@ const mm = myArray.forEach((val, index, arr)=>{
     console.log(val, index, arr)
 })
 console.log(mm)
+
