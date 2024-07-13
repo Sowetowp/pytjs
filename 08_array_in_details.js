@@ -33,5 +33,5 @@ const mapped = myArray.map((val, index, arr)=>{
 console.log(mapped)
 
 const filt = myArray.filter((val)=>{
-    
+    return val !== "chioma"
 })
