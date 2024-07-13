@@ -39,6 +39,6 @@ console.log(filt)
 let kk = [1, 2, 3]
 const reduced = kk.reduce((acc, val, ind, arr)=>{
     // acc + val
-    return acc 
+    return val 
 })
 console.log(reduced)
