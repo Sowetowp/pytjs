@@ -20,4 +20,4 @@ myArray.forEach()
 const myFunc = (m)=>{
 
 }
-myFunc()
+myFunc(()=>{})
