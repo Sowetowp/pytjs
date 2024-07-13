@@ -28,6 +28,6 @@ const mm = myArray.forEach((val, index, arr)=>{
 console.log(ph)
 
 const mapped = myArray.map((val, index, arr)=>{
-    console.log(val, index, arr)
+    val + " " + "omo ologo"
 })
 console.log(mapped)
