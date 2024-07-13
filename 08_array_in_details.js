@@ -37,11 +37,7 @@ const filt = myArray.filter((val)=>{
 })
 console.log(filt)
 let kk = [1, 2, 3]
-const reduced = kk.reduce((acc, val, ind, arr)=>{
-   return acc.push(val)
-}, ["malik", "amzat"])
-console.log(reduced)
-kk.reduce((acc, curr) => {
+const reduced = kk.reduce((acc, curr) => {
     for (const key in curr) {
         if (acc[key]) {
             acc[key].push(curr[key]);
