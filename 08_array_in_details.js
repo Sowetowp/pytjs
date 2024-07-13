@@ -22,7 +22,7 @@ const myarr2 = [[1, 2, 3], ["malik", "david"]]
 console.log(myarr2.flat())
 
 const mm = myArray.forEach((val, index, arr)=>{
-    console.log(val, index, arr)
+    
 })
 console.log(mm)
 
