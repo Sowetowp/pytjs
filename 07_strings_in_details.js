@@ -11,4 +11,4 @@ console.log(malik.split("|"))
 console.log(malik.trim())
  const a = "     malik     "
  const b = "malik"
- console.log(a === b)
+ console.log(a.trim() === b)
