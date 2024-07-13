@@ -16,4 +16,8 @@ console.log(myArray.slice(1, 3))
 console.log(myArray)
 myArray.splice(1, 2, "elvis", "david")
 console.log(myArray.toString())
-myArray.forEach(m)
+myArray.forEach()
+const myFunc = (m)=>{
+
+}
+myFunc()
