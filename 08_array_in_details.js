@@ -23,7 +23,7 @@ console.log(myarr2.flat())
 const ph = []
 myArray.push("wunmi")
 const mm = myArray.forEach((val, index, arr)=>{
-    ph.push(val + " olodo")
+    ph.push(val + "olodo")
 })
 console.log(ph)
 
