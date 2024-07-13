@@ -38,7 +38,7 @@ const filt = myArray.filter((val)=>{
 console.log(filt)
 let kk = [1, 2, 3]
 const reduced = kk.reduce((acc, val, ind, arr)=>{
-    acc + val
-    return acc
+    // acc + val
+    return acc + val
 })
 console.log(reduced)
