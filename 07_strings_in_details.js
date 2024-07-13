@@ -12,4 +12,4 @@ console.log(malik.trim())
  const a = "     malik     "
  const b = "malik"
  console.log(a.trim() === b)
- console.log(b.search("m"))
+ console.log(b.search("x"))
