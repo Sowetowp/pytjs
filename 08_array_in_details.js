@@ -16,7 +16,7 @@ console.log(myArray.slice(1, 3))
 console.log(myArray)
 myArray.splice(1, 2, "elvis", "david")
 console.log(myArray.toString())
-console.log(myArray.at(1))
+console.log(myArray[0])
 myArray.forEach((val, index, arr)=>{
     console.log(val, index)
 })
