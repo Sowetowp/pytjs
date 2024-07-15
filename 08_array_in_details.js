@@ -74,6 +74,6 @@ const tt =arr.map((val, index, array)=>{
 console.log(tt)
 
 const every = arr.every((val)=>{
-    return val > 8
+    return val > 3
 })
 console.log(every)
