@@ -65,3 +65,4 @@ console.log([
 for(let i = 0; i < arr.length; i++){
     final.push(i + 5)
 }
+console.log(final)
