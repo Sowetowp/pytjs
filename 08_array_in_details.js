@@ -63,6 +63,6 @@ console.log([
     arr[3] + 5
 ])
 for(let i = 0; i < arr.length; i++){
-    final.push(i + 5)
+    final.push(arr[i] + 5)
 }
 console.log(final)
