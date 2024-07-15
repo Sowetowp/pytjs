@@ -72,3 +72,4 @@ const tt =arr.map((val, index, array)=>{
     return val + 5 
 })
 console.log(tt)
+
