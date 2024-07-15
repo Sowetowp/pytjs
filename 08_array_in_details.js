@@ -53,3 +53,5 @@ const finders = kk.find((val)=>{
     return val.a = 1
 })
 console.log(finders)
+
+const arr = []
