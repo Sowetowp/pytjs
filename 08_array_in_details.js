@@ -73,4 +73,7 @@ const tt =arr.map((val, index, array)=>{
 })
 console.log(tt)
 
-const every = a
+const every = arr.every((val)=>{
+    val > 4
+})
+console.log(every)
