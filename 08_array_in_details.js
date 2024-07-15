@@ -62,3 +62,6 @@ console.log([
     arr[2] + 5,
     arr[3] + 5
 ])
+for(let i = 0; i < arr.length; i++){
+    
+}
