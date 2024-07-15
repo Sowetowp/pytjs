@@ -59,4 +59,4 @@ arr[0] + 5
 arr[1] + 5
 arr[2] + 5
 arr[3] + 5
-console.log([first])
+console.log([])
