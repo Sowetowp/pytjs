@@ -73,7 +73,7 @@ const tt =arr.map((val, index, array)=>{
 })
 console.log(tt)
 
-const every = arr.every((val)=>{
+const every = arr.some((val)=>{
     return val > 3
 })
 console.log(every)
