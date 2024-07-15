@@ -56,3 +56,6 @@ console.log(finders)
 
 const arr = [1, 2, 3, 4]
 arr[0] + 5
+arr[1] + 5
+arr[2] + 5
+arr[3] + 5
