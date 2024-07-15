@@ -22,21 +22,21 @@ const myarr2 = [[1, 2, 3], ["malik", "david"]]
 console.log(myarr2.flat())
 const ph = []
 myArray.push("wunmi")
-const mm = myArray.forEach((val, index, arr)=>{
+const mm = myArray.forEach((val, index, arr) => {
     ph.push(val + " " + "olodo")
 })
 console.log(ph)
 
-const mapped = myArray.map((val, index, arr)=>{
+const mapped = myArray.map((val, index, arr) => {
     return val + " " + "omo ologo"
 })
 console.log(mapped)
 
-const filt = myArray.filter((val)=>{
+const filt = myArray.filter((val) => {
     return val === "chioma"
 })
 console.log(filt)
-let kk = [{a : 1, b: 8}, {b: 2}, {c: 3}]
+let kk = [{ a: 1, b: 8 }, { b: 2 }, { c: 3 }]
 const reduced = kk.reduce((acc, curr) => {
     for (const key in curr) {
         if (acc[key]) {
@@ -46,17 +46,19 @@ const reduced = kk.reduce((acc, curr) => {
         }
     }
     return acc;
-}, {a: [99]});
+}, { a: [99] });
 console.log(reduced)
 
-const finders = kk.find((val)=>{
+const finders = kk.find((val) => {
     return val.a = 1
 })
 console.log(finders)
 
 const arr = [1, 2, 3, 4]
-arr[0] + 5
-arr[1] + 5
-arr[2] + 5
-arr[3] + 5
-console.log([])
+
+console.log([
+    arr[0] + 5,
+    arr[1] + 5,
+    arr[2] + 5,
+    arr[3] + 5
+])
