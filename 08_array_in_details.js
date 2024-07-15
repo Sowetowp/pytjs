@@ -55,7 +55,7 @@ const finders = kk.find((val) => {
 console.log(finders)
 
 const arr = [1, 2, 3, 4]
-c
+const 
 console.log([
     arr[0] + 5,
     arr[1] + 5,
