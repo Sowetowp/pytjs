@@ -55,7 +55,7 @@ const finders = kk.find((val) => {
 console.log(finders)
 
 const arr = [1, 2, 3, 4]
-const 
+const final = []
 console.log([
     arr[0] + 5,
     arr[1] + 5,
@@ -63,5 +63,5 @@ console.log([
     arr[3] + 5
 ])
 for(let i = 0; i < arr.length; i++){
-
+    
 }
