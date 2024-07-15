@@ -55,4 +55,3 @@ const finders = kk.find((val)=>{
 console.log(finders)
 
 const arr = [1, 2, 3, 4]
-sum = 
