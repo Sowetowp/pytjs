@@ -69,5 +69,5 @@ for(let i = 0; i < arr.length; i++){
 console.log(final)
 
 arr.map((val, index, array)=>{
-    
+    return val + 5 
 })
