@@ -73,3 +73,4 @@ const tt =arr.map((val, index, array)=>{
 })
 console.log(tt)
 
+const every = a
