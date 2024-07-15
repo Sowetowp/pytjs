@@ -56,12 +56,12 @@ console.log(finders)
 
 const arr = [1, 2, 3, 4]
 const final = []
-console.log([
-    arr[0] + 5,
-    arr[1] + 5,
-    arr[2] + 5,
-    arr[3] + 5
-])
+// console.log([
+//     arr[0] + 5,
+//     arr[1] + 5,
+//     arr[2] + 5,
+//     arr[3] + 5
+// ])
 for(let i = 0; i < arr.length; i++){
     final.push(arr[i] + 5)
     console.log(final)
