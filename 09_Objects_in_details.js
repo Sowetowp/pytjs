@@ -8,4 +8,4 @@ let myObject = {
 }
 
 console.log(myObject.name)
-console.log(myObject["name"]["f"])
+console.log(myObject["name"]["firstName"])
