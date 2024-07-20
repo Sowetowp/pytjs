@@ -12,3 +12,4 @@ console.log(myObject["name"]["firstName"])
 myObject.wunmi = "ade"
 console.log(myObject)
 myObject.wunmi = "olodo"
+console.log(myObject)
