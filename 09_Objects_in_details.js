@@ -1,6 +1,7 @@
 let myObject = {
     name: {
-        
+        firstName: "abdulmalik",
+        lastName: "amzat"
     },
     age: 12,
     gender: "male"
