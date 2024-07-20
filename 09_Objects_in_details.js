@@ -1,5 +1,7 @@
 let myObject = {
-    name: "malik",
+    name: {
+        
+    },
     age: 12,
     gender: "male"
 }
