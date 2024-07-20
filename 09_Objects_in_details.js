@@ -9,3 +9,4 @@ let myObject = {
 
 console.log(myObject.name)
 console.log(myObject["name"]["firstName"])
+myObject.wunmi = ""
