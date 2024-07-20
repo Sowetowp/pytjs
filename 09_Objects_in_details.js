@@ -4,3 +4,4 @@ let myObject = {
     gender: "male"
 }
 
+console.log(myObject.name)
