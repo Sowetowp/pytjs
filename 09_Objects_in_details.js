@@ -5,3 +5,4 @@ let myObject = {
 }
 
 console.log(myObject.name)
+console.log(myObject.["name"])
